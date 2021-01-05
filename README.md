@@ -8,7 +8,7 @@
 
 ### Part1 计算机组成原理(Principles of Computer Composition)
 
-- #### 1.[概述(Overview)](https://github.com/WYang2018fly/me/blob/master/PrinciplesOfComputerComposition/1.Overview.md)
+- #### 1.概述(Overview)
 
   - ##### 1.1 简介
 
