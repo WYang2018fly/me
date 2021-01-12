@@ -22,6 +22,12 @@
     - 1.2.2 [硬件框图](https://github.com/WYang2018fly/me/blob/master/PrinciplesOfComputerComposition/1.Overview.md#122-硬件框图)
     - 1.2.3 [工作步骤](https://github.com/WYang2018fly/me/blob/master/PrinciplesOfComputerComposition/1.Overview.md#123-工作步骤)
 
+- #### 2.系统总线(System Bus)
+
+  - ##### 2.1 [总线的基本概念](https://github.com/WYang2018fly/me/issues/1)
+
+  - ##### 2.2 总线的分类
+
 
 
 ### Part2 操作系统(Operating System)
