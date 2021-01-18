@@ -27,6 +27,8 @@
   - #### 2.1 [总线的基本概念](https://github.com/WYang2018fly/me/issues/1)
 
   - #### 2.2 [总线的分类](https://github.com/WYang2018fly/me/issues/2)
+  
+  - #### 2.3 [总线特性及性能指标](https://github.com/WYang2018fly/me/issues/3)
 
 
 
