@@ -31,6 +31,8 @@
   - #### 2.3 [总线特性及性能指标](https://github.com/WYang2018fly/me/issues/3)
   
   - #### 2.4 [总线结构](https://github.com/WYang2018fly/me/issues/4)
+  
+  - #### 2.5 [总线控制](https://github.com/WYang2018fly/me/issues/5)
 
 
 
