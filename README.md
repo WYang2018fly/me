@@ -33,6 +33,10 @@
   - #### 2.4 [总线结构](https://github.com/WYang2018fly/me/issues/4)
   
   - #### 2.5 [总线控制](https://github.com/WYang2018fly/me/issues/5)
+  
+- #### 3.存储器(Storage)
+
+  - #### 3.1 [存储器概述](https://github.com/WYang2018fly/me/issues/6)
 
 
 
@@ -45,6 +49,17 @@
 ### Part3 计算机网络(Computer Network)
 
 - In the writing
+
+
+
+## 二、Programming Language(PL)
+
+- ### Java Learning
+
+  - ### Stage 1 Beginner
+
+    - #### Week 1 环境搭建与语法入门
+
 
 
 
