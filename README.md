@@ -56,9 +56,9 @@
 
 - ### Java Learning
 
-  - ### Stage 1 Rookie
+  - ### Stage1 Rookie
 
-    - #### Week 1 环境搭建与语法入门
+    - #### Week1 环境搭建与语法入门
 
 
 
