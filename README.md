@@ -37,6 +37,8 @@
 - #### 3.存储器(Storage)
 
   - #### 3.1 [存储器概述](https://github.com/WYang2018fly/me/issues/6)
+  
+  - #### 3.1 [主存储器](https://github.com/WYang2018fly/me/issues/9)
 
 
 
@@ -58,7 +60,11 @@
 
   - ### Stage1 Rookie
 
-    - #### Week1 环境搭建与语法入门
+    - #### **[环境搭建](https://github.com/WYang2018fly/me/issues/7)**
+
+    - #### 语法入门
+
+
 
 
 
