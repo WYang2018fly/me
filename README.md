@@ -58,11 +58,11 @@
 
 - ### Java Learning
 
-  - ### Stage1 Rookie
+  - #### Stage1 Rookie
 
-    - #### **[环境搭建](https://github.com/WYang2018fly/me/issues/7)**
+    - ##### **[环境搭建](https://github.com/WYang2018fly/me/issues/7)**
 
-    - #### 语法入门
+    - ##### 语法入门
 
 
 
