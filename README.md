@@ -43,6 +43,8 @@
   - ##### 3.3 高速缓冲存储器
   
     - ###### [高速缓存-上](https://github.com/WYang2018fly/me/issues/13)
+  
+    - ###### [高速缓存-下](https://github.com/WYang2018fly/me/issues/15)
 
 
 
@@ -72,7 +74,7 @@
 
       - ###### [运算符的运用、流程控制及实现](https://github.com/WYang2018fly/me/issues/12)
 
-
+      - ###### [数组和方法](https://github.com/WYang2018fly/me/issues/14)
 
 
 
