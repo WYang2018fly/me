@@ -1,5 +1,5 @@
 # me
 
-> You share rose and get fun and I update once a month.
+> Commit and Close Work Issues.
 
 [TOC]
